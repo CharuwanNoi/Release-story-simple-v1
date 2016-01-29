@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Hello Sawakit How R U
+Sawakit
+=======
 Taro is a cat
 Hello Sawakit
+>>>>>>> develop

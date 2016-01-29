@@ -1,1 +1,2 @@
-bugfig 
+bugfig v 0.1.2
+
